@@ -40,13 +40,13 @@ Shows `% Courses Ready` and `Total Enrolments` KPI cards, a donut chart of
 course availability, and an AI Decomposition Tree breaking down enrolments
 by Department → Degree Program → Course.
 
-![Course Readiness](./SS_PowerBi_1.jpeg)
+![Course Readiness](./SS_PowerBI_1.jpeg)
 
 ### Assessment Tracker
 Shows upcoming assessments plotted across a drillable date hierarchy, and
 assessment load broken down by department.
 
-![Assessment Tracker](./SS_PowerBi_2.jpeg)
+![Assessment Tracker](./SS_PowerBI_2.jpeg)
 
 ---
 
