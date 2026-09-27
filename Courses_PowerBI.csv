@@ -1,0 +1,26 @@
+Course_ID,Course_Name,Department,Faculty_Name,Is_Available,Target_Enrolment
+COURSE_001,Introduction to Programming,Mathematics,Dr. Smith,True,40
+COURSE_002,Data Structures,Chemistry,Dr. Jones,True,100
+COURSE_003,Algorithms,Mathematics,Dr. White,True,30
+COURSE_004,Calculus I,Computer Science,Dr. Williams,True,40
+COURSE_005,Calculus II,Computer Science,Dr. Thompson,True,100
+COURSE_006,Linear Algebra,History,Dr. Davis,True,75
+COURSE_007,Classical Mechanics,Biology,Dr. Smith,True,100
+COURSE_008,Quantum Physics,History,Dr. Anderson,True,40
+COURSE_009,Organic Chemistry,Chemistry,Dr. Anderson,True,30
+COURSE_010,Inorganic Chemistry,History,Dr. Brown,True,50
+COURSE_011,Molecular Biology,Biology,Dr. Johnson,True,75
+COURSE_012,Genetics,Mathematics,Dr. Thomas,True,75
+COURSE_013,English Literature,Biology,Dr. Lopez,True,75
+COURSE_014,Creative Writing,Chemistry,Dr. Williams,True,100
+COURSE_015,World History,Chemistry,Dr. Martinez,True,40
+COURSE_016,Modern History,Mathematics,Dr. Thomas,True,60
+COURSE_017,Microeconomics,English,Dr. Garcia,True,50
+COURSE_018,Macroeconomics,Chemistry,Dr. Rodriguez,True,75
+COURSE_019,Database Systems,Physics,Dr. Thompson,True,40
+COURSE_020,Web Development,Economics,Dr. Thomas,True,100
+COURSE_021,Machine Learning,Chemistry,Dr. Anderson,True,40
+COURSE_022,Statistics,Computer Science,Dr. Anderson,True,50
+COURSE_023,Probability Theory,Mathematics,Dr. Miller,False,100
+COURSE_024,Thermodynamics,English,Dr. Miller,True,60
+COURSE_025,Electromagnetism,Economics,Dr. Jones,True,40
